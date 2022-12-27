@@ -1,4 +1,8 @@
-# file-share-cli
+# 📂 file-share-cli
+
+> My blog post: [Personal File Share CLI](https://healeycodes.com/a-personal-file-share-cli)
+
+<br>
 
 A quick way to share public files with friends.
 
