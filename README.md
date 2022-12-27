@@ -1,6 +1,6 @@
 # 📂 file-share-cli
 
-> My blog post: [Personal File Share CLI](https://healeycodes.com/a-personal-file-share-cli)
+> My blog post: [A Personal File Share CLI](https://healeycodes.com/a-personal-file-share-cli)
 
 <br>
 
