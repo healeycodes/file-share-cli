@@ -133,7 +133,7 @@ func (app *application) upload(w http.ResponseWriter, r *http.Request) {
 	}
 
 	// Reply with a download link
-	w.Write([]byte(fmt.Sprintf("%v/dl?f=%v", app.website, fileHeader.Filename)))
+	w.Write([]byte(fmt.Sprintf("%v/dl?f=%v\n", app.website, fileHeader.Filename)))
 }
 
 // https://www.alexedwards.net/blog/basic-authentication-in-go
